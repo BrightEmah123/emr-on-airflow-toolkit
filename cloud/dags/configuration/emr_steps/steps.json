@@ -1,0 +1,10 @@
+{
+	"Name": "",
+	"ActionOnFailure": "",
+	"HadoopJarStep": {
+		"Jar": "command-runner.jar",
+		"Args": [
+			""
+		],
+	},
+}
